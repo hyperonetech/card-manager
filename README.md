@@ -16,7 +16,6 @@
   <tr>
     <td>First Screen</td>
      <td>Second Screen</td>
-     <td>Third Screen</td>
   </tr>
   <tr>
     <td><img src="1.png" width=310 height=480></td>
