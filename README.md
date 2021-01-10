@@ -1,5 +1,6 @@
 
-# Card Manager ui in flutter by design inspire by matt wojtas
+# Card Manager ui in flutter by hyperone 
+design inspire by matt wojtas
 
 # Structure:
 
