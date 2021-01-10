@@ -1,16 +1,26 @@
-# card_manager
 
-A new Flutter application.
+# Card Manager ui in flutter by design inspire by matt wojtas
 
-## Getting Started
+# Structure:
 
-This project is a starting point for a Flutter application.
+  - Homescreen
+  - Card detail
 
-A few resources to get you started if this is your first Flutter project:
+# Dependencies!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  - none
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  #### Flutter App Screenshots
+
+<table>
+  <tr>
+    <td>Home Screen</td>
+     <td>Detail Screen</td>
+  </tr>
+  <tr>
+    <td><img src="1.png" width=310 height=480></td>
+    <td><img src="2.png" width=310 height=480></td> 
+  </tr>
+ </table>
+
+ </table>
